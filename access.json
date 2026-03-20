@@ -1,0 +1,12 @@
+{
+  "codes": {
+    "TEST001": {
+      "name": "Test User",
+      "active": true,
+      "config": {
+        "anthropicApiKey": "sk-ant-PLACEHOLDER",
+        "githubToken": "ghp_PLACEHOLDER"
+      }
+    }
+  }
+}
