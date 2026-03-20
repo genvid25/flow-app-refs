@@ -2,7 +2,8 @@
   "codes": {
     "TEST001": {
       "name": "Test User",
-      "active": true
+      "active": true,
+      "encryptedConfig": "e6c8ab39bea5fcc8799faa67dc5c8de7:04eb8f52d4b15c3603b4aa0b875de5e7037cdf733e5f899cdbacc2db9e38c7f04738e0a472d3fed03ae5665c326414b94466bf4b379a834eef70f534ed041d6d0385a226470380da2060e1bb6b11be3acd1efc7cf6eafa272977e7aeff16a82a26f2582c9884d2929efc725ca512753c99c272c9ac065c24a88afc735e8877f5728a2a472a791477b62f8388807618c4"
     }
   }
 }
